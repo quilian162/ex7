@@ -1,5 +1,3 @@
-package com.mycompany.ex7;
-
 public class Conjunto implements Comparavel {
     private int elemento1;
     private int elemento2;
