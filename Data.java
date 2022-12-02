@@ -1,7 +1,3 @@
-
-package com.mycompany.ex7;
-
-
 public class Data implements Comparavel {
     private int dia;
     private int mes;
